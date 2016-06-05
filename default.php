@@ -16,7 +16,7 @@
  <header> Hedonion </header>
  <!-- separating line -->
  <body>
-   <a href="http://codepen.io/webwebwebwebDesign/full/eispC" id="mainpage">main page</a>
+   <a href="./default.php" id="mainpage">main page</a>
    <br/><br/><br/><br/>
    <div class="list1">
    <a href="./aboutHedonion.html"> About Hedonion </a>
