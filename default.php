@@ -19,7 +19,7 @@
    <a href="http://codepen.io/webwebwebwebDesign/full/eispC" id="mainpage">main page</a>
    <br/><br/><br/><br/>
    <div class="list1">
-   <a href="http://codepen.io/webwebwebwebDesign/full/tEziq"> About Hedonion </a>
+   <a href="./aboutHedonion.html"> About Hedonion </a>
    <a href="http://codepen.io/webwebwebwebDesign/full/LcBij"> Why do we live? </a>
    <a href="http://codepen.io/webwebwebwebDesign/full/jqbnB"> How to accumulate happiness?</a><a  href="http://codepen.io/webwebwebwebDesign/full/rlKBD"> Find your true happiness here </a> 
    
